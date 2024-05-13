@@ -1,8 +1,26 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+
+//CSS
+import './css/style.css';
+import './css/navbar.css';
+import './css/header.css';
+import './css/skills.css';
+import './css/testimonials.css';
+import './css/footer.css';
+import './css/video.css';
+import './css/contacts.css';
+import './css/projects.css';
+import './css/modalLang.css';
+import './css/education.css';
+import './css/scrolltop.css';
+import './css/pages.css';
+import './css/namepage.css';
+import './css/skillspage.css';
+import './css/musics.css';
+import './css/project.css';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -10,8 +28,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

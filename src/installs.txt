@@ -1,0 +1,13 @@
+=== Lord Icon React
+- npm i @lordicon/react
+
+
+=== i18next & react-i18next
+- npm i i18next react-i18next --save
+
+
+=== React Icons
+- npm i react-icons
+
+=== Bootstrap
+- npm install react-bootstrap bootstrap

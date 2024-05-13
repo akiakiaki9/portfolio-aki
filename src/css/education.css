@@ -1,0 +1,85 @@
+.education {
+    min-height: 70vh
+}
+
+.education-blok__container {
+    padding: 20px 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.education-blok__section-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.education-blok__section-1-part {
+    display: flex;
+    flex-direction: column;
+}
+
+.education-blok__section-2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+.education-blok__section-2-part {
+    display: flex;
+    flex-direction: column;
+}
+
+.education-blok__section-2-p {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 10px;
+}
+
+.education__img {
+    width: 500px;
+}
+
+.education__tire {
+    min-width: 30px;
+    height: 2px;
+    background: var(--second-color);
+}
+
+@media (max-width: 1285px) {
+    .education-blok__container {
+        padding: 20px 50px;
+    }
+}
+
+@media (max-width: 1126px) {
+    .education-blok__container {
+        padding: 20px 10px;
+    }
+}
+
+@media (max-width: 1055px) {
+    .education__img  {
+        width: 300px;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 800px) {
+    .education__img  {
+        display: none;
+    }
+}
+
+@media (max-width: 336px) {
+    .education-blok__section-1 {
+        text-align: center;
+    }
+    .education-blok__section-2 {
+        text-align: center;
+    }
+    .education-blok__section-2-p {
+        text-align: left;
+    }
+}

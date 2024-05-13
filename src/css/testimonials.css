@@ -1,0 +1,49 @@
+.test {
+    min-height: 100vh;
+    padding: 50px 10px;
+}
+
+.test-blok {
+    background: url(../images/telegram.webp);
+    background-blend-mode: multiply;
+    background-color: #000000ac;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.test-blok__section {
+    text-align: center;
+}
+
+.test-blok__section button {
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 15px var(--main-color);
+    background: var(--main-color);
+    transition: .3s;
+}
+
+.test-blok__section button a {
+    color: var(--bg-color);
+    text-decoration: none;
+    transition: .3s;
+}
+
+.test-blok__section button:hover {
+    box-shadow: 0 0 35px var(--main-color);
+    color: #fff;
+}
+
+.test-blok__section button:hover a {
+    color: #fff;
+}
+
+.test-footer {
+    text-align: center;
+    padding: 10px;
+}

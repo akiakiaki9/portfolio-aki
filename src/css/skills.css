@@ -1,0 +1,101 @@
+
+
+.services {
+    padding: 20px 200px 50px 200px;
+}
+
+.services-sar {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.services-sar h1 {
+    font-weight: bold;
+    font-size: 280%;
+}
+
+.services-blok {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.services-blok__section {
+    width: 500px;
+    min-height: 30vh;
+    padding: 50px;
+    background: var(--main-color);
+    color: #fff;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .3s ease;
+    box-shadow: 0 0 15px var(--main-color);
+    text-decoration: none;
+}
+
+.services-blok__section:hover {
+    color: var(--bg-color);
+    background: #fff;
+}
+
+.services-blok__section b {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.services-blok__section p {
+    font-size: 80%;
+}
+
+.services-blok__icon {
+    text-align: center;
+}
+
+.services-blok__section button {
+    width: 100px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    transition: .3s;
+}
+
+.services-blok__section button a {
+    text-decoration: none;
+    color: var(--second-color);
+    transition: .3s;
+}
+
+.services-blok__section-icon {
+    font-size: 120%;
+    margin-bottom: 2px;
+}
+
+.services-blok__section button:hover {
+    background: var(--main-color);
+}
+
+.services-blok__section button:hover a {
+    color: #fff;
+}
+
+@media (max-width: 1300px) {
+    .services {
+        padding: 50px 10px;
+    }
+}
+
+@media (max-width: 1098px) {
+    .services-sar h1 {
+        font-size: 200%;
+    }
+}
+
+@media (max-width: 1048px) {
+    .services-blok__section {
+        width: 100%;
+        padding: 25px;
+        min-height: 20vh;
+    }
+}
