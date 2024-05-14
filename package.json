@@ -1,6 +1,5 @@
 {
   "name": "portfolio",
-  "homepage": "https://akiakiaki9.github.io/portfolio-aki",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
