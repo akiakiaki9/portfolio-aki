@@ -13,8 +13,10 @@ import Navbar1 from './Navbar1'
 import NamePage from './NamePage'
 import Footer from './Footer'
 import ScrollTop from './ScrollTop'
+import { useTranslation } from 'react-i18next'
 
 export default function Musics() {
+
     const [activeMusic, setActiveMusic] = useState(null);
 
     const musicList = [

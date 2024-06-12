@@ -3,8 +3,12 @@ import { BsTelegram } from "react-icons/bs";
 import { SlSocialVkontakte } from "react-icons/sl";
 import { FaYoutube } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
+import { useTranslation } from 'react-i18next';
 
 export default function Footer() {
+
+  const { t } = useTranslation()
+
   return (
     <footer className="footer">
       <div className="footer-blok">
@@ -23,7 +27,7 @@ export default function Footer() {
           </a>
         </div>
         <div className="footer-blok__nav">
-          <p>Explore my latest projects and client testimonials on my website. Contact me to discuss new ideas and projects</p>
+          <p>{t('footer-body')}</p>
         </div>
       </div>
       <div className="footer-blok__footer">

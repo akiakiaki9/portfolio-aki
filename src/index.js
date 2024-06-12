@@ -20,6 +20,7 @@ import './css/namepage.css';
 import './css/skillspage.css';
 import './css/musics.css';
 import './css/project.css';
+import './css/translate.css';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

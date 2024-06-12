@@ -9,8 +9,12 @@ import { IoLogoJavascript } from "react-icons/io5";
 import { FaBootstrap } from "react-icons/fa";
 import { FaReact } from "react-icons/fa";
 import ScrollTop from '../components/ScrollTop';
+import { useTranslation } from 'react-i18next';
 
 export default function SkillsPage() {
+
+  const {t} = useTranslation()
+
   return (
     <div>
       <Navbar />
@@ -20,7 +24,7 @@ export default function SkillsPage() {
           <div className='section1'>
 
             <div className="container1" id="skills">
-              <h1 className="heading">Technical skills</h1>
+              <h1 className="heading">{t('skills-page-title-1')}</h1>
               <div className="Technical-bars">
                 <div className="bar">
                   <FaHtml5 className='bar-icon' />
@@ -71,7 +75,7 @@ export default function SkillsPage() {
             </div>
 
             <div className="container1">
-              <h1 className='heading'>Professional skills</h1>
+              <h1 className='heading'>{t('skills-page-title-2')}</h1>
               <div className="radial-bars">
                 <div className="radial-bar">
                   <svg x="0px" y="0" viewBox='0 0 200 200'>
@@ -79,7 +83,7 @@ export default function SkillsPage() {
                     <circle className='path path-1' cx="100" cy="100" r="80"></circle>
                   </svg>
                   <div className="percentage">90%</div>
-                  <div className="radial-text">Creativity</div>
+                  <div className="radial-text">{t('skills-page-1')}</div>
                 </div>
                 <div className="radial-bar">
                   <svg x="0px" y="0" viewBox='0 0 200 200'>
@@ -87,7 +91,7 @@ export default function SkillsPage() {
                     <circle className='path path-1' cx="100" cy="100" r="80"></circle>
                   </svg>
                   <div className="percentage">65%</div>
-                  <div className="radial-text">Communication</div>
+                  <div className="radial-text">{t('skills-page-2')}</div>
                 </div>
                 <div className="radial-bar">
                   <svg x="0px" y="0" viewBox='0 0 200 200'>
@@ -95,7 +99,7 @@ export default function SkillsPage() {
                     <circle className='path path-1' cx="100" cy="100" r="80"></circle>
                   </svg>
                   <div className="percentage">75%</div>
-                  <div className="radial-text">Problem Solving</div>
+                  <div className="radial-text">{t('skills-page-3')}</div>
                 </div>
                 <div className="radial-bar">
                   <svg x="0px" y="0" viewBox='0 0 200 200'>
@@ -103,7 +107,7 @@ export default function SkillsPage() {
                     <circle className='path path-1' cx="100" cy="100" r="80"></circle>
                   </svg>
                   <div className="percentage">85%</div>
-                  <div className="radial-text">Teamwork</div>
+                  <div className="radial-text">{t('skills-page-4')}</div>
                 </div>
               </div>
             </div>

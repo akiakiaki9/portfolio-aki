@@ -4,9 +4,11 @@ import Footer from '../components/Footer'
 import NamePage from '../components/NamePage'
 import developer from '../images/Developer.png'
 import ScrollTop from '../components/ScrollTop'
+import { useTranslation } from 'react-i18next'
 
 export default function Contacts() {
 
+    const {t} = useTranslation()
     const [formData, setFormData] = useState({
         name: "",
         email: '',
@@ -32,7 +34,7 @@ export default function Contacts() {
                 <div className="pages-blok">
                     <NamePage />
                     <div className="contact">
-                        <div className="contact-sar"><h1>Contact Me</h1></div>
+                        <div className="contact-sar"><h1>{t('contacts-page-title')}</h1></div>
                         <form className="contact-blok" onSubmit={handleSubmit}>
                             <div className="contact-blok__section contact-blok__section-1">
                                 <input type="text" name='name' placeholder='Your Name' value={formData.name} onChange={handleChange} required />
@@ -42,13 +44,13 @@ export default function Contacts() {
                             </div>
                             <div className="contact-blok__section contact-blok__section-2">
                                 <textarea placeholder='Your Message' name='message' value={formData.message} onChange={handleChange} required></textarea>
-                                <button type='submit'>Send message</button>
+                                <button type='submit'>{t('contacts-page-send')}</button>
                             </div>
                         </form>
 
                         <div className="contact-blok2">
                             <div className="contact-blok2__sar">
-                                <h3>or contact to telegram...</h3>
+                                <h3>{t('contacts-page-or')}</h3>
                                 <a href="https://t.me/aki_developer">https://t.me/aki_developer</a>
                             </div>
                             <div className="contact-blok2__section">

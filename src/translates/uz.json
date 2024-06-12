@@ -1,0 +1,91 @@
+{
+    "navbar-item-1": "Asosiy",
+    "navbar-item-2": "Ta'lim",
+    "navbar-item-3": "Ko'nikmalar",
+    "navbar-item-4": "Sharhlar",
+    "navbar-item-5": "Loyihalar",
+    "navbar-item-6": "Kontaktlar",
+
+    "header-subtitle": "Mening sahifamga xush kelibsiz! Bu yerda siz mening loyihalarim, ish tajribam va veb-ishlab chiqishdagi yutuqlarim haqida ma'lumot topasiz.",
+    "header-contact": "Aloqa",
+
+    "education-title": "Mening ta'limim haqida",
+    "education-subtitle": "Dasturlash bo'yicha sayohatim maktabda o'qib yurgan paytlarimdan boshlangan. Men har doim kompyuter va texnologiyaga qiziqib kelganman.",
+    "education-details": "Tafsilotlar",
+
+    "skills-sar": "Ko'nikmalar",
+    "skills-title-2": "Frontend Dasturlash",
+    "skills-title-3": "Strapida Dasturlash",
+    "skills-title-4": "Testing va optimallashtirish",
+    "skills-subtitle-1": "Ijtimoiy media marketingi yoki SMM - bu Facebook, Instagram, Twitter va LinkedIn kabi ijtimoiy media platformalari orqali mahsulot yoki xizmatni ilgari surish jarayonidir.",
+    "skills-subtitle-2": "Frontend asturlash veb-ilovalar yoki veb-saytlar uchun foydalanuvchi interfeysini (UI) yaratish jarayonidir. Bu interaktiv va vizual jozibador foydalanuvchi interfeyslarini yaratish uchun HTML, CSS va JavaScript bilan ishlashni o'z ichiga oladi.",
+    "skills-subtitle-3": "Strapi veb-saytlar va ilovalarni yaratish va boshqarish uchun vositadir. U kontentni osongina qo‘shish va yangilashda yordam beradi, bu nafaqat dasturchilar uchun, balki hamma uchun ham osonlashtiradi.",
+    "skills-subtitle-4": "Umuman olganda, foydalanuvchi talablariga javob beradigan va turli muhitlarda yaxshi ishlaydigan yuqori sifatli dasturiy ta'minotni yaratish uchun test va optimallashtirish zarur. Dasturiy ta'minotni ishlab chiqish jarayonida doimiy ravishda sinovdan o'tkazish va optimallashtirish.",
+    "skills-info": "Ma'lumot",
+
+    "github-title": "Mening Githubim",
+    "github-subtitle": "Loyihalarim uchun kodlarni Github sahifamda topishingiz mumkin.",
+
+    "musics-title": "Mening sevimli musiqalarim",
+    "musics-subtitle": "Motivatsiya uchun mening pleylistimni tinglang",
+    "musics-playlist": "Pleylistga o‘tish...",
+
+    "footer-body": "Mening veb-saytimdagi so'nggi loyihalarim va mijozlar sharhlarini tekshiring. Yangi g'oyalar va loyihalarni muhokama qilish uchun men bilan bog'laning",
+    
+
+
+
+
+
+
+    "education-page-title-1": "Dasturlash kursi",
+    "education-page-title-2": "Tajriba",
+    "education-page-subtitle-1": "Dasturlash faniga kirish",
+    "education-page-subtitle-2": "Onlayn do'konni dasturlash",
+    "education-page-body-1": "Dasturlash olamiga sayohatimning bir qismi sifatida men dasturlash bo'yicha kirish kursini oldim. Ushbu kurs menga o'zgaruvchilar, tsikllar, shartlar va funktsiyalar kabi fundamental dasturlash tushunchalari haqida yaxshi tushuncha berdi. Amaliy loyihalar va topshiriqlar orqali men kod yozish va dasturiy muammolarni hal qilish bo‘yicha amaliy tajribaga ega bo‘ldim.",
+    "education-page-body-2-1": "Onlayn do'konlarni rivojlantirishda katta tajribaga ega bo'lganim sababli, men ushbu sohada uchta loyihani muvaffaqiyatli yakunladim. Mening tajribam quyidagilarni o'z ichiga oladi:",
+    "education-page-body-2-2": "Turli mijozlar uchun keng qamrovli elektron tijorat yechimlarini ishlab chiqish.",
+    "education-page-body-2-3": "Mahsulot katalogi, foydalanuvchi autentifikatsiyasi, xarid savati va xavfsiz to'lov kabi asosiy funktsiyalarni amalga oshirish.",
+    "education-page-body-2-4": "React.js, Node.js va MongoDB kabi texnologiyalardan foydalanib, kengaytiriladigan va foydalanuvchilarga qulay onlayn-do'konlar yaratish.",
+    "education-page-body-2-5": "Onlayn do'konlarni rivojlantirish bo'yicha tajribam mijozlar va foydalanuvchilarning noyob ehtiyojlarini qondiradigan jozibali va funktsional elektron tijorat yechimlarini yaratishga imkon beradi.",
+        
+
+
+
+
+    "skills-page-title-1": "Texnik ko'nikmalar",
+    "skills-page-title-2": "Kasbiy malaka",
+    "skills-page-1": "Ijodkorlik",
+    "skills-page-2": "Muloqot",
+    "skills-page-3": "Muammoni hal qilish",
+    "skills-page-4": "Jamoaviy harakat",
+        
+
+
+
+
+    "testimonials-page-title": "Ayni paytda siz o‘z sharhingizni Telegram’da qoldirishingiz mumkin va u shu yerda ko‘rsatiladi.",
+    "testimonials-page-go": "Telegramga o'tish..",
+    "testimonials-page-no": "hali sharhlar yo'q",
+            
+
+
+
+    "contacts-page-title": "Men bilan bog'laning",
+    "contacts-page-send": "Xabar yubormoq",
+    "contacts-page-or": "yoki telegramga bog'laning...",
+
+
+
+
+
+    "skills-sar1": "Ko'nikmalar va Qobiliyatlar",
+  "skills-smm-title": "SMM",
+  "skills-smm-body": "Ijtimoiy Media Marketing yoki SMM, Facebook, Instagram, Twitter va LinkedIn kabi ijtimoiy media platformalari orqali mahsulot yoki xizmatni targ'ib qilish jarayonidir.",
+  "skills-frontend-title": "Frontend Dasturlash",
+  "skills-frontend-body": "Frontend dasturlash — bu veb-ilovalar yoki veb-saytlar uchun foydalanuvchi interfeysi (UI) yaratish jarayoni. Bu interaktiv va vizual jihatdan jozibador foydalanuvchi interfeyslarini yaratish uchun HTML, CSS va JavaScript bilan ishlashni o'z ichiga oladi.",
+  "skills-backend-title": "Backend Dasturlash",
+  "skills-backend-body": "Backend dasturlash veb-ilovalar yoki veb-saytlarning server qismida ishlaydi va ulardan foydalanishni o'z ichiga oladi. Frontend dasturlashdan farqli o'laroq, bu foydalanuvchi interfeysi va mijoz tomoni funktsionalligiga qaratilgan.",
+  "skills-testing-title": "Testlash va Optimizatsiya",
+  "skills-testing-body": "Dasturiy ta'minotni doimiy ravishda sinovdan o'tkazish va optimallashtirish orqali foydalanuvchi kutgan talablarni va turli muhitlarda yuqori sifatli dasturiy ta'minotni etkazib berish uchun zarurdir."
+}

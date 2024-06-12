@@ -1,0 +1,92 @@
+{
+    "navbar-item-1": "Home",
+    "navbar-item-2": "Education",
+    "navbar-item-3": "Skills",
+    "navbar-item-4": "Testimonials",
+    "navbar-item-5": "Projects",
+    "navbar-item-6": "Contacts",
+
+    "header-subtitle": "Welcome to my page! Here you will find information about my projects, my work experience, and my achievements in web development.",
+    "header-contact": "Contact",
+
+    "education-title": "About My Education",
+    "education-subtitle": "My journey into programming started when I was in high school. I was always fascinated by computers and technology",
+    "education-details": "Details",
+
+    "skills-sar": "Skills",
+    "skills-title-2": "Frontend Development",
+    "skills-title-3": "Development on Strapi",
+    "skills-title-4": "Testing and Optimization",
+    "skills-subtitle-1": "Social Media Marketing, or SMM, is the process of promoting a product or service through social media platforms such as Facebook, Instagram, Twitter, and LinkedIn.",
+    "skills-subtitle-2": "Frontend development is the process of creating the user interface (UI) for web applications or websites. It involves working with HTML, CSS, and JavaScript to build interactive and visually appealing user interfaces.",
+    "skills-subtitle-3": "Strapi is a tool for creating and managing websites and applications. It helps you easily add and update content, making it easier for everyone, not just programmers.",
+    "skills-subtitle-4": "Overall, testing and optimization are essential for delivering high-quality software that meets user expectations and performs well in various environments. By continuously testing and optimizing software throughout the development process.",
+    "skills-info": "Info",
+
+    "github-title": "My Github",
+    "github-subtitle": "You can find my project codes on my Github page",
+
+    "musics-title": "My favorite musics",
+    "musics-subtitle": "Listen my playlist for motivation",
+    "musics-playlist": "Go to playlist..",
+
+    "footer-body": "Explore my latest projects and client testimonials on my website. Contact me to discuss new ideas and projects",
+
+
+
+
+
+
+
+    "education-page-title-1": "Programming Course",
+    "education-page-title-2": "Experience",
+    "education-page-subtitle-1": "Introduction to Programming",
+    "education-page-subtitle-2": "Online Store Development",
+    "education-page-body-1": "As part of my journey into the world of programming, I completed an introductory course on programming. This course provided me with a solid understanding of fundamental programming concepts, such as variables, loops, conditionals, and functions. Through hands-on projects and assignments, I gained practical experience in writing code and solving problems programmatically.",
+    "education-page-body-2-1": "With a strong background in online store development, I have successfully completed three projects in this field. My experience includes:",
+    "education-page-body-2-2": "Developing comprehensive e-commerce solutions for various clients.",
+    "education-page-body-2-3": "Implementing essential features such as product catalog, user authentication, shopping cart, and secure checkout.",
+    "education-page-body-2-4": "Utilizing technologies like React.js, Node.js, and MongoDB to create scalable and user-friendly online stores.",
+    "education-page-body-2-5": "My expertise in online store development allows me to create engaging and functional e-commerce solutions that meet the unique needs of clients and users.",
+    
+
+
+
+
+    "skills-page-title-1": "Technical skills",
+    "skills-page-title-2": "Professional skills",
+    "skills-page-1": "Creativity",
+    "skills-page-2": "Communication",
+    "skills-page-3": "Problem Solving",
+    "skills-page-4": "Teamwork",
+        
+
+
+
+
+    "testimonials-page-title": "For now you can leave your feedback in Telegram and it will be shown here",
+    "testimonials-page-go": "Go to Telegram..",
+    "testimonials-page-no": "no reviews yet",
+            
+
+
+
+    "contacts-page-title": "Contact Me",
+    "contacts-page-send": "Send message",
+    "contacts-page-or": "or contact to telegram...",
+
+
+
+
+
+  "skills-sar1": "Skills and Abilities",
+  "skills-smm-title": "SMM",
+  "skills-smm-body": "Social Media Marketing, or SMM, is the process of promoting a product or service through social media platforms such as Facebook, Instagram, Twitter, and LinkedIn.",
+  "skills-frontend-title": "Frontend Development",
+  "skills-frontend-body": "Frontend development is the process of creating the user interface (UI) for web applications or websites. It involves working with HTML, CSS, and JavaScript to build interactive and visually appealing user interfaces.",
+  "skills-backend-title": "Backend Development",
+  "skills-backend-body": "Backend development involves building and maintaining the server-side of web applications or websites. Unlike frontend development, which focuses on the user interface and client-side functionality.",
+  "skills-testing-title": "Testing and Optimization",
+  "skills-testing-body": "Overall, testing and optimization are essential for delivering high-quality software that meets user expectations and performs well in various environments. By continuously testing and optimizing software throughout the development process."
+
+}

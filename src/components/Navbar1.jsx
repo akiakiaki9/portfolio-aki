@@ -9,9 +9,12 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Offcanvas from 'react-bootstrap/Offcanvas';
+import Translate from './Translate';
+import { useTranslation } from 'react-i18next';
 
 export default function Navbar1() {
 
+    const { t } = useTranslation();
     const location = useLocation()
     const [activePage, setActivePage] = useState(location.pathname)
 
@@ -27,6 +30,7 @@ export default function Navbar1() {
                         <Navbar.Brand className='navbar-brand'>
                             <Link to='/' className='navbar-brand-link'>Akbar <span className="color-main">Dev</span></Link>
                         </Navbar.Brand>
+                        <Translate />
                         <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
                         <Navbar.Offcanvas
                             id={`offcanvasNavbar-expand-${expand}`}
@@ -47,7 +51,7 @@ export default function Navbar1() {
                                                 color: activePage === '/' ? 'var(--main-color)' : '',
                                                 borderBottom: activePage === '/' ? '3px solid var(--main-color)' : ''
                                             }}>
-                                            Home
+                                            {t('navbar-item-1')}
                                         </Link>
                                     </Nav.Link>
                                     <Nav.Link>
@@ -56,7 +60,7 @@ export default function Navbar1() {
                                                 color: activePage === '/education' ? 'var(--main-color)' : '',
                                                 borderBottom: activePage === '/education' ? '3px solid var(--main-color)' : ''
                                             }}>
-                                            Education
+                                            {t('navbar-item-2')}
                                         </Link>
                                     </Nav.Link>
                                     <Nav.Link>
@@ -65,7 +69,7 @@ export default function Navbar1() {
                                                 color: activePage === '/skills' ? 'var(--main-color)' : '',
                                                 borderBottom: activePage === '/skills' ? '3px solid var(--main-color)' : ''
                                             }}>
-                                            Skills
+                                            {t('navbar-item-3')}
                                         </Link>
                                     </Nav.Link>
                                     <Nav.Link>
@@ -74,7 +78,7 @@ export default function Navbar1() {
                                                 color: activePage === '/testimonials' ? 'var(--main-color)' : '',
                                                 borderBottom: activePage === '/testimonials' ? '3px solid var(--main-color)' : ''
                                             }}>
-                                            Testimonials
+                                            {t('navbar-item-4')}
                                         </Link>
                                     </Nav.Link>
                                     <Nav.Link>
@@ -83,7 +87,7 @@ export default function Navbar1() {
                                                 color: activePage === '/projects' ? 'var(--main-color)' : '',
                                                 borderBottom: activePage === '/projects' ? '3px solid var(--main-color)' : ''
                                             }}>
-                                            Projects
+                                            {t('navbar-item-5')}
                                         </Link>
                                     </Nav.Link>
                                     <Nav.Link>
@@ -92,7 +96,7 @@ export default function Navbar1() {
                                                 color: activePage === '/contacts' ? 'var(--main-color)' : '',
                                                 borderBottom: activePage === '/contacts' ? '3px solid var(--main-color)' : ''
                                             }}>
-                                            Contacts
+                                            {t('navbar-item-6')}
                                         </Link>
                                     </Nav.Link>
                                 </Nav>

@@ -1,0 +1,90 @@
+{
+    "navbar-item-1": "Heim",
+    "navbar-item-2": "Ausbildung",
+    "navbar-item-3": "Fähigkeiten",
+    "navbar-item-4": "Rezensionen",
+    "navbar-item-5": "Projekte",
+    "navbar-item-6": "Kontakte",
+
+    "header-subtitle": "Wilkommen auf meiner Seite! Hier finden Sie Informationen zu meinen Projekten, Berufserfahrungen und Erfolgen in der Webentwicklung.",
+    "header-contact": "Kontakt",
+
+    "education-title": "Über meine Ausbildung",
+    "education-subtitle": "Meine Reise ins Programmieren begann bereits während meiner Schulzeit. Ich war schon immer von Computern und Technologie fasziniert.",
+    "education-details": "Einzelheiten",
+
+    "skills-sar": "Fähigkeiten",
+    "skills-title-2": "Frontend Entwicklung",
+    "skills-title-3": "Entwicklung Auf Strapi",
+    "skills-title-4": "Testen und Optimieren",
+    "skills-subtitle-1": "Social Media Marketing oder SMM ist der Prozess der Werbung für ein Produkt oder eine Dienstleistung über Social-Media-Plattformen wie Facebook, Instagram, Twitter und LinkedIn.",
+    "skills-subtitle-2": "Bei der Frontend-Entwicklung handelt es sich um den Prozess der Erstellung einer Benutzeroberfläche (UI) für Webanwendungen oder Websites. Dabei wird mit HTML, CSS und JavaScript gearbeitet, um interaktive und optisch ansprechende Benutzeroberflächen zu erstellen.",
+    "skills-subtitle-3": "Strapi ist ein Tool zum Erstellen und Verwalten von Websites und Anwendungen. Es hilft Ihnen, Inhalte einfach hinzuzufügen und zu aktualisieren, was es für alle einfacher macht, nicht nur für Programmierer.",
+    "skills-subtitle-4": "Insgesamt sind Tests und Optimierung erforderlich, um qualitativ hochwertige Software zu erstellen, die den Erwartungen der Benutzer entspricht und in verschiedenen Umgebungen eine gute Leistung erbringt. Ständiges Testen und Optimieren der Software während des gesamten Entwicklungsprozesses.",
+    "skills-info": "Info",
+
+    "github-title": "Mein Github",
+    "github-subtitle": "Die Codes für meine Projekte finden Sie auf meiner Github-Seite.",
+
+    "musics-title": "Meine Lieblingsmusik",
+    "musics-subtitle": "Hören Sie sich zur Motivation meine Playlist an",
+    "musics-playlist": "Zur Playlist gehen...",
+
+    "footer-body": "Schauen Sie sich meine neuesten Projekte und Kundenbewertungen auf meiner Website an. Kontaktieren Sie mich, um neue Ideen und Projekte zu besprechen",
+    
+
+
+
+
+
+
+    "education-page-title-1": "Programmierkurs",
+    "education-page-title-2": "Erfahrung",
+    "education-page-subtitle-1": "Einführung in die Programmierung",
+    "education-page-subtitle-2": "Entwicklung eines Online-Shops",
+    "education-page-body-1": "Im Rahmen meiner Reise in die Welt des Programmierens habe ich einen Einführungskurs in die Programmierung belegt. Dieser Kurs vermittelte mir ein solides Verständnis grundlegender Programmierkonzepte wie Variablen, Schleifen, Bedingungen und Funktionen. Durch praktische Projekte und Aufgaben habe ich praktische Erfahrungen beim Schreiben von Code und beim Lösen von Softwareproblemen gesammelt.",
+    "education-page-body-2-1": "Aufgrund meiner umfangreichen Erfahrung in der Entwicklung von Online-Shops habe ich drei Projekte in diesem Bereich erfolgreich abgeschlossen. Meine Erfahrung umfasst:",
+    "education-page-body-2-2": "Entwicklung umfassender E-Commerce-Lösungen für verschiedene Kunden.",
+    "education-page-body-2-3": "Implementierung grundlegender Funktionen wie Produktkatalog, Benutzerauthentifizierung, Warenkorb und sichere Zahlung.",
+    "education-page-body-2-4": "Verwendung von Technologien wie React.js, Node.js und MongoDB zur Erstellung skalierbarer und benutzerfreundlicher Online-Shops.",
+    "education-page-body-2-5": "Meine Erfahrung in der Entwicklung von Online-Shops ermöglicht es mir, attraktive und funktionale E-Commerce-Lösungen zu schaffen, die den individuellen Bedürfnissen von Kunden und Nutzern gerecht werden.",
+        
+
+
+
+
+    "skills-page-title-1": "Technische Fähigkeiten",
+    "skills-page-title-2": "Professionelle Fähigkeiten",
+    "skills-page-1": "Kreativität",
+    "skills-page-2": "Kommunikation",
+    "skills-page-3": "Probleme lösen",
+    "skills-page-4": "Zusammenarbeit",
+        
+
+
+
+
+    "testimonials-page-title": "In der Zwischenzeit können Sie Ihre Bewertung im Telegram hinterlassen und sie wird hier angezeigt.",
+    "testimonials-page-go": "Gehe zum Telegramm..",
+    "testimonials-page-no": "Noch keine Bewertungen",
+            
+
+
+
+    "contacts-page-title": "Kontaktiere mich",
+    "contacts-page-send": "eine Nachricht schicken",
+    "contacts-page-or": "oder Kontakt zum Telegramm...",
+
+
+
+
+    "skills-sar1": "Fähigkeiten und Kompetenzen",
+  "skills-smm-title": "SMM",
+  "skills-smm-body": "Social Media Marketing, oder SMM, ist der Prozess der Förderung eines Produkts oder einer Dienstleistung über soziale Medienplattformen wie Facebook, Instagram, Twitter und LinkedIn.",
+  "skills-frontend-title": "Frontend-Entwicklung",
+  "skills-frontend-body": "Frontend-Entwicklung ist der Prozess der Erstellung der Benutzeroberfläche (UI) für Webanwendungen oder Websites. Es umfasst die Arbeit mit HTML, CSS und JavaScript, um interaktive und visuell ansprechende Benutzeroberflächen zu erstellen.",
+  "skills-backend-title": "Backend-Entwicklung",
+  "skills-backend-body": "Backend-Entwicklung umfasst den Aufbau und die Wartung der Server-Seite von Webanwendungen oder Websites. Im Gegensatz zur Frontend-Entwicklung, die sich auf die Benutzeroberfläche und die clientseitige Funktionalität konzentriert.",
+  "skills-testing-title": "Testen und Optimieren",
+  "skills-testing-body": "Insgesamt sind das Testen und Optimieren unerlässlich, um hochwertige Software bereitzustellen, die den Erwartungen der Benutzer entspricht und in verschiedenen Umgebungen gut funktioniert. Durch kontinuierliches Testen und Optimieren der Software im gesamten Entwicklungsprozess."
+}
