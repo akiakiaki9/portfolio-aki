@@ -3,7 +3,6 @@ import { useTranslation } from 'react-i18next';
 import i18n from '../translates/resources';
 
 export default function Translate() {
-    const { t } = useTranslation();
     const [language, setLanguage] = useState('en');
 
     useEffect(() => {
@@ -18,7 +17,7 @@ export default function Translate() {
     useEffect(() => {
         console.log('Current language:', i18n.language);
         console.log('i18n object:', i18n);
-    }, [i18n.language]);
+    }, []); // Убрана зависимость i18n.language
 
     const handleChangeLanguage = (event) => {
         const newLanguage = event.target.value;
