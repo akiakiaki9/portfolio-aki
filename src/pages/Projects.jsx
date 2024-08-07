@@ -29,7 +29,7 @@ export default function Projects() {
                   <video src={projectvideo2} typeof='video/mp4' autoPlay muted loop playsInline></video>
                 </div>
                 <div className="project-blok__part">
-                  <b>SYNTAX сайл услуг</b>
+                  <b>SYNTAX сайт услуг</b>
                   <a href="https://syntax-aki.netlify.app">https://syntax-aki.netlify.app</a>
                 </div>
               </div>
