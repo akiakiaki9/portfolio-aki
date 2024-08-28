@@ -5,6 +5,7 @@ import NamePage from '../components/NamePage.jsx'
 import ScrollTop from '../components/ScrollTop.jsx'
 import projectvideo1 from '../images/project1vid.mp4'
 import projectvideo2 from '../images/video2.mp4'
+import projectvideo3 from '../images/projectvideo3.mp4'
 
 export default function Projects() {
   return (
@@ -31,6 +32,15 @@ export default function Projects() {
                 <div className="project-blok__part">
                   <b>SYNTAX сайт услуг</b>
                   <a href="https://syntax-aki.netlify.app">https://syntax-aki.netlify.app</a>
+                </div>
+              </div>
+              <div className="project-blok__section">
+                <div className="project-blok__part">
+                  <video src={projectvideo3} typeof='video/mp4' autoPlay muted loop playsInline></video>
+                </div>
+                <div className="project-blok__part">
+                  <b>Oxford IELTS Center</b>
+                  <a href="https://oxford-ielts-center-by-aki.netlify.app">https://oxford-ielts-center-by-aki.netlify.app</a>
                 </div>
               </div>
             </div>
