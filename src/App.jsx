@@ -7,10 +7,12 @@ import Testimonial from './pages/Testimonial';
 import Projects from './pages/Projects';
 import Contacts from './pages/Contacts';
 import Musics from './components/Musics';
+import LoadPage from './components/LoadPage';
 
 function App() {
     return (
         <BrowserRouter>
+            <LoadPage />
             <Routes>
                 <Route path='/' element={<Home />} />
                 <Route path='/education' element={<EducationPage />} />

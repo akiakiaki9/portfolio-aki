@@ -9,9 +9,8 @@
 
 .project-blok__section {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
     border: 1px solid var(--main-color);
     padding: 10px;
     border-radius: 25px;
@@ -21,6 +20,7 @@
 .project-blok__part {
     display: flex;
     flex-direction: column;
+    width: 370px;
 }
 
 .project-blok__part video {
@@ -31,6 +31,16 @@
     .project-blok__section {
         gap: 20px;
         flex-direction: column;
+        margin: 0 0 20px 0;
+    }
+    .project-blok__part b {
+        text-align: center;
+    }
+    .project-blok__part a {
+        text-align: center;
+    }
+    .project-blok__part video {
+        margin: auto;
     }
 }
 
