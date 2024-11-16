@@ -1,6 +1,6 @@
 {
     "navbar-item-1": "Heim",
-    "navbar-item-2": "Ausbildung",
+    "navbar-item-2": "Spezialisierung",
     "navbar-item-3": "Fähigkeiten",
     "navbar-item-4": "Rezensionen",
     "navbar-item-5": "Projekte",
@@ -39,16 +39,8 @@
 
 
     "education-page-title-1": "Programmierkurs",
-    "education-page-title-2": "Erfahrung",
     "education-page-subtitle-1": "Einführung in die Programmierung",
-    "education-page-subtitle-2": "Entwicklung eines Online-Shops",
     "education-page-body-1": "Im Rahmen meiner Reise in die Welt des Programmierens habe ich einen Einführungskurs in die Programmierung belegt. Dieser Kurs vermittelte mir ein solides Verständnis grundlegender Programmierkonzepte wie Variablen, Schleifen, Bedingungen und Funktionen. Durch praktische Projekte und Aufgaben habe ich praktische Erfahrungen beim Schreiben von Code und beim Lösen von Softwareproblemen gesammelt.",
-    "education-page-body-2-1": "Aufgrund meiner umfangreichen Erfahrung in der Entwicklung von Online-Shops habe ich drei Projekte in diesem Bereich erfolgreich abgeschlossen. Meine Erfahrung umfasst:",
-    "education-page-body-2-2": "Entwicklung umfassender E-Commerce-Lösungen für verschiedene Kunden.",
-    "education-page-body-2-3": "Implementierung grundlegender Funktionen wie Produktkatalog, Benutzerauthentifizierung, Warenkorb und sichere Zahlung.",
-    "education-page-body-2-4": "Verwendung von Technologien wie React.js, Node.js und MongoDB zur Erstellung skalierbarer und benutzerfreundlicher Online-Shops.",
-    "education-page-body-2-5": "Meine Erfahrung in der Entwicklung von Online-Shops ermöglicht es mir, attraktive und funktionale E-Commerce-Lösungen zu schaffen, die den individuellen Bedürfnissen von Kunden und Nutzern gerecht werden.",
-        
 
 
 

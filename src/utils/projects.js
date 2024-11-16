@@ -3,6 +3,7 @@ import projectvideo2 from '../images/video2.mp4'
 import projectvideo3 from '../images/projectvideo3.mp4'
 import projectvideo4 from '../images/oxford-next.mp4'
 import projectvideo5 from '../images/restaurant.mp4'
+import projectvideo6 from '../images/akbarsoftcss.mp4'
 
 const PROJECTS = [
     {
@@ -13,24 +14,30 @@ const PROJECTS = [
     },
     {
         'id': 2,
+        'title': 'AkbarSoft CSS',
+        'link': 'https://akbarsoft-css.netlify.app',
+        'video': projectvideo6
+    },
+    {
+        'id': 3,
         'title': 'Restaurant',
         'link': 'https://restaurant-ferro-soft.netlify.app',
         'video': projectvideo5
     },
     {
-        'id': 3,
+        'id': 4,
         'title': 'Oxford IELTS Center (Next)',
         'link': 'https://oxfordieltscenter-next-aki.netlify.app',
         'video': projectvideo4
     },
     {
-        'id': 4,
+        'id': 5,
         'title': 'SYNTAX сайт услуг',
         'link': 'https://syntax-aki.netlify.app',
         'video': projectvideo2
     },
     {
-        'id': 5,
+        'id': 6,
         'title': 'Oxford IELTS Center (React)',
         'link': 'https://oxford-ielts-center-by-aki.netlify.app',
         'video': projectvideo3

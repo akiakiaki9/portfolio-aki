@@ -1,6 +1,6 @@
 {
     "navbar-item-1": "Home",
-    "navbar-item-2": "Education",
+    "navbar-item-2": "Specialization",
     "navbar-item-3": "Skills",
     "navbar-item-4": "Testimonials",
     "navbar-item-5": "Projects",
@@ -39,16 +39,9 @@
 
 
     "education-page-title-1": "Programming Course",
-    "education-page-title-2": "Experience",
     "education-page-subtitle-1": "Introduction to Programming",
-    "education-page-subtitle-2": "Online Store Development",
     "education-page-body-1": "As part of my journey into the world of programming, I completed an introductory course on programming. This course provided me with a solid understanding of fundamental programming concepts, such as variables, loops, conditionals, and functions. Through hands-on projects and assignments, I gained practical experience in writing code and solving problems programmatically.",
-    "education-page-body-2-1": "With a strong background in online store development, I have successfully completed three projects in this field. My experience includes:",
-    "education-page-body-2-2": "Developing comprehensive e-commerce solutions for various clients.",
-    "education-page-body-2-3": "Implementing essential features such as product catalog, user authentication, shopping cart, and secure checkout.",
-    "education-page-body-2-4": "Utilizing technologies like React.js, Node.js, and MongoDB to create scalable and user-friendly online stores.",
-    "education-page-body-2-5": "My expertise in online store development allows me to create engaging and functional e-commerce solutions that meet the unique needs of clients and users.",
-    
+
 
 
 

@@ -1,7 +1,7 @@
 {
     "navbar-item-1": "Asosiy",
     "navbar-item-2": "Ta'lim",
-    "navbar-item-3": "Ko'nikmalar",
+    "navbar-item-3": "Mutaxassislik",
     "navbar-item-4": "Sharhlar",
     "navbar-item-5": "Loyihalar",
     "navbar-item-6": "Kontaktlar",
@@ -39,17 +39,8 @@
 
 
     "education-page-title-1": "Dasturlash kursi",
-    "education-page-title-2": "Tajriba",
     "education-page-subtitle-1": "Dasturlash faniga kirish",
-    "education-page-subtitle-2": "Onlayn do'konni dasturlash",
     "education-page-body-1": "Dasturlash olamiga sayohatimning bir qismi sifatida men dasturlash bo'yicha kirish kursini oldim. Ushbu kurs menga o'zgaruvchilar, tsikllar, shartlar va funktsiyalar kabi fundamental dasturlash tushunchalari haqida yaxshi tushuncha berdi. Amaliy loyihalar va topshiriqlar orqali men kod yozish va dasturiy muammolarni hal qilish bo‘yicha amaliy tajribaga ega bo‘ldim.",
-    "education-page-body-2-1": "Onlayn do'konlarni rivojlantirishda katta tajribaga ega bo'lganim sababli, men ushbu sohada uchta loyihani muvaffaqiyatli yakunladim. Mening tajribam quyidagilarni o'z ichiga oladi:",
-    "education-page-body-2-2": "Turli mijozlar uchun keng qamrovli elektron tijorat yechimlarini ishlab chiqish.",
-    "education-page-body-2-3": "Mahsulot katalogi, foydalanuvchi autentifikatsiyasi, xarid savati va xavfsiz to'lov kabi asosiy funktsiyalarni amalga oshirish.",
-    "education-page-body-2-4": "React.js, Node.js va MongoDB kabi texnologiyalardan foydalanib, kengaytiriladigan va foydalanuvchilarga qulay onlayn-do'konlar yaratish.",
-    "education-page-body-2-5": "Onlayn do'konlarni rivojlantirish bo'yicha tajribam mijozlar va foydalanuvchilarning noyob ehtiyojlarini qondiradigan jozibali va funktsional elektron tijorat yechimlarini yaratishga imkon beradi.",
-        
-
 
 
 
