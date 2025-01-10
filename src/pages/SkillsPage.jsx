@@ -38,7 +38,7 @@ export default function SkillsPage() {
                 <div className="bar">
                   <IoLogoCss3 className='bar-icon' />
                   <div className="bar-info">
-                    <span>CSS</span> <span className='info-info'>/ 65%</span>
+                    <span>CSS</span> <span className='info-info'>/ 85%</span>
                   </div>
                   <div className="progress-line">
                     <div className='progress-span css'></div>
@@ -47,7 +47,7 @@ export default function SkillsPage() {
                 <div className="bar">
                   <FaBootstrap className='bar-icon' />
                   <div className="bar-info">
-                    <span>BOOTSTRAP</span> <span className='info-info'>/ 75%</span>
+                    <span>BOOTSTRAP</span> <span className='info-info'>/ 65%</span>
                   </div>
                   <div className="progress-line">
                     <div className='progress-span bootstrap'></div>
@@ -56,7 +56,7 @@ export default function SkillsPage() {
                 <div className="bar">
                   <IoLogoJavascript className='bar-icon' />
                   <div className="bar-info">
-                    <span>JavaScript</span> <span className='info-info'>/ 85%</span>
+                    <span>JavaScript</span> <span className='info-info'>/ 75%</span>
                   </div>
                   <div className="progress-line">
                     <div className='progress-span javascript'></div>
@@ -65,7 +65,7 @@ export default function SkillsPage() {
                 <div className="bar">
                   <FaReact className='bar-icon' />
                   <div className="info">
-                    <span>React</span> <span className='info-info'>/ 75%</span>
+                    <span>React</span> <span className='info-info'>/ 85%</span>
                   </div>
                   <div className="progress-line">
                     <div className='progress-span react'></div>
@@ -90,7 +90,7 @@ export default function SkillsPage() {
                     <circle className='progress-bar' cx="100" cy="100" r="80"></circle>
                     <circle className='path path-1' cx="100" cy="100" r="80"></circle>
                   </svg>
-                  <div className="percentage">65%</div>
+                  <div className="percentage">75%</div>
                   <div className="radial-text">{t('skills-page-2')}</div>
                 </div>
                 <div className="radial-bar">
@@ -98,7 +98,7 @@ export default function SkillsPage() {
                     <circle className='progress-bar' cx="100" cy="100" r="80"></circle>
                     <circle className='path path-1' cx="100" cy="100" r="80"></circle>
                   </svg>
-                  <div className="percentage">75%</div>
+                  <div className="percentage">85%</div>
                   <div className="radial-text">{t('skills-page-3')}</div>
                 </div>
                 <div className="radial-bar">
@@ -106,7 +106,7 @@ export default function SkillsPage() {
                     <circle className='progress-bar' cx="100" cy="100" r="80"></circle>
                     <circle className='path path-1' cx="100" cy="100" r="80"></circle>
                   </svg>
-                  <div className="percentage">85%</div>
+                  <div className="percentage">95%</div>
                   <div className="radial-text">{t('skills-page-4')}</div>
                 </div>
               </div>

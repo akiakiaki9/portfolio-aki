@@ -7,7 +7,7 @@
     "navbar-item-6": "Contacts",
 
     "header-subtitle": "Welcome to my page! Here you will find information about my projects, my work experience, and my achievements in web development.",
-    "header-contact": "Contact",
+    "header-contact": "Contacts",
 
     "education-title": "About My Education",
     "education-subtitle": "My journey into programming started when I was in high school. I was always fascinated by computers and technology",
@@ -15,11 +15,8 @@
 
     "skills-sar": "Skills",
     "skills-title-2": "Frontend Development",
-    "skills-title-3": "Development on Strapi",
     "skills-title-4": "Testing and Optimization",
-    "skills-subtitle-1": "Social Media Marketing, or SMM, is the process of promoting a product or service through social media platforms such as Facebook, Instagram, Twitter, and LinkedIn.",
     "skills-subtitle-2": "Frontend development is the process of creating the user interface (UI) for web applications or websites. It involves working with HTML, CSS, and JavaScript to build interactive and visually appealing user interfaces.",
-    "skills-subtitle-3": "Strapi is a tool for creating and managing websites and applications. It helps you easily add and update content, making it easier for everyone, not just programmers.",
     "skills-subtitle-4": "Overall, testing and optimization are essential for delivering high-quality software that meets user expectations and performs well in various environments. By continuously testing and optimizing software throughout the development process.",
     "skills-info": "Info",
 
@@ -73,13 +70,8 @@
 
 
   "skills-sar1": "Skills and Abilities",
-  "skills-smm-title": "SMM",
-  "skills-smm-body": "Social Media Marketing, or SMM, is the process of promoting a product or service through social media platforms such as Facebook, Instagram, Twitter, and LinkedIn.",
   "skills-frontend-title": "Frontend Development",
   "skills-frontend-body": "Frontend development is the process of creating the user interface (UI) for web applications or websites. It involves working with HTML, CSS, and JavaScript to build interactive and visually appealing user interfaces.",
-  "skills-backend-title": "Backend Development",
-  "skills-backend-body": "Backend development involves building and maintaining the server-side of web applications or websites. Unlike frontend development, which focuses on the user interface and client-side functionality.",
   "skills-testing-title": "Testing and Optimization",
   "skills-testing-body": "Overall, testing and optimization are essential for delivering high-quality software that meets user expectations and performs well in various environments. By continuously testing and optimizing software throughout the development process."
-
 }

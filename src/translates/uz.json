@@ -15,11 +15,8 @@
 
     "skills-sar": "Ko'nikmalar",
     "skills-title-2": "Frontend Dasturlash",
-    "skills-title-3": "Strapida Dasturlash",
     "skills-title-4": "Testing va optimallashtirish",
-    "skills-subtitle-1": "Ijtimoiy media marketingi yoki SMM - bu Facebook, Instagram, Twitter va LinkedIn kabi ijtimoiy media platformalari orqali mahsulot yoki xizmatni ilgari surish jarayonidir.",
     "skills-subtitle-2": "Frontend asturlash veb-ilovalar yoki veb-saytlar uchun foydalanuvchi interfeysini (UI) yaratish jarayonidir. Bu interaktiv va vizual jozibador foydalanuvchi interfeyslarini yaratish uchun HTML, CSS va JavaScript bilan ishlashni o'z ichiga oladi.",
-    "skills-subtitle-3": "Strapi veb-saytlar va ilovalarni yaratish va boshqarish uchun vositadir. U kontentni osongina qo‘shish va yangilashda yordam beradi, bu nafaqat dasturchilar uchun, balki hamma uchun ham osonlashtiradi.",
     "skills-subtitle-4": "Umuman olganda, foydalanuvchi talablariga javob beradigan va turli muhitlarda yaxshi ishlaydigan yuqori sifatli dasturiy ta'minotni yaratish uchun test va optimallashtirish zarur. Dasturiy ta'minotni ishlab chiqish jarayonida doimiy ravishda sinovdan o'tkazish va optimallashtirish.",
     "skills-info": "Ma'lumot",
 
@@ -71,12 +68,8 @@
 
 
     "skills-sar1": "Ko'nikmalar va Qobiliyatlar",
-  "skills-smm-title": "SMM",
-  "skills-smm-body": "Ijtimoiy Media Marketing yoki SMM, Facebook, Instagram, Twitter va LinkedIn kabi ijtimoiy media platformalari orqali mahsulot yoki xizmatni targ'ib qilish jarayonidir.",
   "skills-frontend-title": "Frontend Dasturlash",
   "skills-frontend-body": "Frontend dasturlash — bu veb-ilovalar yoki veb-saytlar uchun foydalanuvchi interfeysi (UI) yaratish jarayoni. Bu interaktiv va vizual jihatdan jozibador foydalanuvchi interfeyslarini yaratish uchun HTML, CSS va JavaScript bilan ishlashni o'z ichiga oladi.",
-  "skills-backend-title": "Backend Dasturlash",
-  "skills-backend-body": "Backend dasturlash veb-ilovalar yoki veb-saytlarning server qismida ishlaydi va ulardan foydalanishni o'z ichiga oladi. Frontend dasturlashdan farqli o'laroq, bu foydalanuvchi interfeysi va mijoz tomoni funktsionalligiga qaratilgan.",
   "skills-testing-title": "Testlash va Optimizatsiya",
   "skills-testing-body": "Dasturiy ta'minotni doimiy ravishda sinovdan o'tkazish va optimallashtirish orqali foydalanuvchi kutgan talablarni va turli muhitlarda yuqori sifatli dasturiy ta'minotni etkazib berish uchun zarurdir."
 }

@@ -21,7 +21,7 @@ export default function Header() {
             {t('header-subtitle')}
           </p>
           <div className="header-blok-container">
-            <a href="https://t.me/dev_aki">
+            <a href="https://t.me/akbarsoftowner">
               <BsTelegram className='header-icon' />
             </a>
             <a href="https://vk.com/id848724063">

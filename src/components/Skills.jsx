@@ -9,24 +9,12 @@ export default function Skills() {
   const skills = [
     {
       id: 1,
-      title: t('skills-smm-title'),
-      body: t('skills-smm-body'),
-      link: 'https://en.wikipedia.org/wiki/Social_media_marketing'
-    },
-    {
-      id: 2,
       title: t('skills-frontend-title'),
       body: t('skills-frontend-body'),
       link: 'https://en.wikipedia.org/wiki/Front-end_web_development'
     },
     {
-      id: 3,
-      title: t('skills-backend-title'),
-      body: t('skills-backend-body'),
-      link: 'https://en.wikipedia.org/wiki/Frontend_and_backend'
-    },
-    {
-      id: 4,
+      id: 2,
       title: t('skills-testing-title'),
       body: t('skills-testing-body'),
       link: 'https://en.wikipedia.org/wiki/Web_testing'

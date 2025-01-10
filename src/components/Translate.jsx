@@ -13,26 +13,15 @@ export default function Translate() {
         }
     }, []);
 
-    useEffect(() => {
-        console.log('Current language:', i18n.language);
-        console.log('i18n object:', i18n);
-    }, []); // Убрана зависимость i18n.language
-
     const handleChangeLanguage = (event) => {
         const newLanguage = event.target.value;
         setLanguage(newLanguage);
-        console.log('Attempting to change language to:', newLanguage);
 
         if (i18n && typeof i18n.changeLanguage === 'function') {
             i18n.changeLanguage(newLanguage)
                 .then(() => {
-                    console.log(`Language changed to ${newLanguage}`);
-                    // Сохраняем язык в localStorage
                     localStorage.setItem('language', newLanguage);
                 })
-                .catch(err => console.error('Error changing language:', err));
-        } else {
-            console.error('i18n or changeLanguage function is not available.');
         }
     };
 

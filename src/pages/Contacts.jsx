@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Navbar from '../components/Navbar1'
 import Footer from '../components/Footer'
 import NamePage from '../components/NamePage'
-import developer from '../images/Developer.png'
+import developer from '../images/Developer.jpg'
 import ScrollTop from '../components/ScrollTop'
 import { useTranslation } from 'react-i18next'
 
@@ -51,7 +51,7 @@ export default function Contacts() {
                         <div className="contact-blok2">
                             <div className="contact-blok2__sar">
                                 <h3>{t('contacts-page-or')}</h3>
-                                <a href="https://t.me/aki_developer">https://t.me/aki_developer</a>
+                                <a href="https://t.me/akbarsoftowner">https://t.me/akbarsoftowner</a>
                             </div>
                             <div className="contact-blok2__section">
                                 <img src={developer} alt="" />
